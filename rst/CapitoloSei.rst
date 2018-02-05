@@ -152,7 +152,7 @@ il controllo è stato meramente amministrativo.
 
 La Commissione non è stata in grado di chiarire per quale motivo la scelta di Sogei sia stata quella di
 sviluppare da zero il software invece di metterne a gara la realizzazione e sfruttare così il *know how*
-presente sul mercato. Dall’analisi svolta dalla Commissione nel `capitolo 3.3 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloTre.html#analisi-specifiche-sullanagrafe-nazionale-della-popolazione-residente>`_, rispetto alla
+presente sul mercato. Dall’analisi svolta dalla Commissione nel `capitolo 3.3 <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloTre.html#analisi-specifiche-sullanagrafe-nazionale-della-popolazione-residente>`_, rispetto alla
 distribuzione dei fornitori di software d’anagrafe per i comuni, risulta che il mercato italiano vede la
 presenza di 45 fornitori che coprono il 97 per cento del Paese, tali da assicurare un grado sufficiente
 di competizione. Sogei ha riferito durante le audizioni che la scelta di sviluppo interno è obbligata
@@ -182,11 +182,10 @@ solamente i compiti di controllo; compiti però difficili da sopportare in quant
 
 Ancora una volta la Commissione si è trovata di fronte ad un caso in cui la carenza di competenze tecniche dal lato della committenza pubblica ha portato l’amministrazione ad affidarsi completamente alle dipendenze del fornitore, tanto da porre la
 questione, ancora irrisolta, di come sia possibile definire le specifiche tecniche dei bandi. Dalle audizioni risulta che i tecnici del socio privato di SIN sono spesso presenti ai tavoli ministeriali e danno supporto nella definizione dei contratti esecutivi tra Agea e SIN. SIAN è anche esemplificativo del problema del *lock-in*, ovvero il meccanismo tramite il quale si crea un ostacolo al cambio di fornitore e quindi una limitazione alla concorrenza. Dai documenti e dalle audizioni risulta che la base applicativa sviluppata negli anni sempre dalle stesse aziende è particolarmente consistente, ma scarsamente documentata. Il rischio è che il *know how* sia
-totalmente in mano ai fornitori del sistema e che l’eventuale cambio di fornitore sia eccessivamente oneroso. La Commissione suggerisce di porre particolare attenzione all’eventuale fase di passaggio di consegne a seguito dell’aggiudicazione della gara in corso per il SIAN che prevede due soggetti distinti per il lotto 3 relativo allo sviluppo e gestione del sistema informativo e il lotto 4 relativo al
-monitoraggio e controllo. 
+totalmente in mano ai fornitori del sistema e che l’eventuale cambio di fornitore sia eccessivamente oneroso. La Commissione suggerisce di porre particolare attenzione all’eventuale fase di passaggio di consegne a seguito dell’aggiudicazione della gara in corso per il SIAN che prevede due soggetti distinti per il lotto 3 relativo allo sviluppo e gestione del sistema informativo e il lotto 4 relativo al monitoraggio e controllo. 
 
 L’indagine relativa al livello di digitalizzazione del MIUR ha evidenziato una gestione sicuramente più
-accurata della spesa ICT anche se il vecchio contratto esecutivo per la fornitura e gestione ICT ha rivelato ampi margini di miglioramento, ad esempio per quanto riguarda il costo delle postazioni di lavoro che risulta superiore a quanto previsto da altre convenzioni Consip, come risulta evidente dal `paragrafo 4.4 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloQuattro.html#la-digitalizzazione-del-miur>`_ di questa relazione. Maggiore attenzione va anche posta alla corretta interpretazione dell’articolo 17 del CAD che prevede un’unica figura dirigenziale che sovraintenda alla digitalizzazione, mentre invece sussistono strutture diverse e poco coordinate frutto dell’unificazione dei due ministeri che sembra non essere ancora stata completamente assimilata dalla struttura amministrativa.
+accurata della spesa ICT anche se il vecchio contratto esecutivo per la fornitura e gestione ICT ha rivelato ampi margini di miglioramento, ad esempio per quanto riguarda il costo delle postazioni di lavoro che risulta superiore a quanto previsto da altre convenzioni Consip, come risulta evidente dal `paragrafo 4.4 <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloQuattro.html#la-digitalizzazione-del-miur>`_ di questa relazione. Maggiore attenzione va anche posta alla corretta interpretazione dell’articolo 17 del CAD che prevede un’unica figura dirigenziale che sovraintenda alla digitalizzazione, mentre invece sussistono strutture diverse e poco coordinate frutto dell’unificazione dei due ministeri che sembra non essere ancora stata completamente assimilata dalla struttura amministrativa.
 
 .. important::
    Durante tutto il corso dell’indagine la Commissione ha tentato un approccio tecnologico nell’analisi
@@ -206,7 +205,7 @@ Purtroppo l’analisi dei dati della Banca Dati dei Contratti Pubblici, come det
    
 Se il processo di raccolta dei dati fosse validato e semplificato, evitando di richiedere alle stazioni appaltanti di inserire più volte dati già comunicati o già in possesso della PA, in ossequio al principio *once-only*, si potrebbe potenziare fortemente l’azione di contrasto alla corruzione utilizzando appieno le potenzialità dell’analisi e visualizzazione dei dati. 
 
-Alcuni esempi di elaborazione sono mostrati nel `Capitolo 3 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloTre.html>`_, ma vanno considerati esclusivamente come *proof-of-concept*.
+Alcuni esempi di elaborazione sono mostrati nel `Capitolo 3 <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloTre.html>`_, ma vanno considerati esclusivamente come *proof-of-concept*.
 
 Un esempio lampante di spreco dovuto al mancato controllo della spesa è emerso dai dati della telefonia mobile in convenzione Consip. Da una rapida analisi risultano, ogni anno, **circa 2 milioni di euro di costi in servizi ‘a valore aggiunto’**, in gran parte ingiustificabili perché relativi a servizi interattivi di intrattenimento o per adulti. Per quanto il fenomeno sia legato ai meccanismi di attivazione di questi servizi che spesso sfuggono al controllo dell’utente, il mancato controllo delle fatture ha permesso uno spreco che altrimenti sarebbe stato bloccato sin dalla prima fattura emessa.
 
