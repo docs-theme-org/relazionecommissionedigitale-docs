@@ -12,7 +12,7 @@ Composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti*, Segret
 ------------
 
 - `SCARICA LA RELAZIONE IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
-- `VAI ALL'ELENCO DELLE AUDIZIONI <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/Audizioni.html>`_ 
+- `VAI ALL'ELENCO DELLE AUDIZIONI <http://relazione-commissione-digitale.readthedocs.io/it/latest/Audizioni.html>`_ 
 
 ------------
 
